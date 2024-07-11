@@ -6,7 +6,7 @@ const App = () => {
       <div className="container w-80 bg-white mt-10 rounded-xl flex py-[20px] px-[20px] flex-col items-center">
 
         <div>
-          <img src="../public/images/image-qr-code.png" alt="" className="rounded-xl" />
+          <img src="/images/image-qr-code.png" alt="" className="rounded-xl" />
         </div>
 
         <div className="text text-center mt-6">
